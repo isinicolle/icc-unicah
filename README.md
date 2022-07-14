@@ -9,6 +9,8 @@
 
 ## [Ver resultado Final](https://ingenieria-en-ciencias-de-la-computacion-unicah.bss.design/)
 
+## [En caso que no sirva el link arriba oficial usa este](https://isinicolle.github.io/icc-unicah/)
+
 ## <span align="center">Desarrollado por: [isinicolle](https://github.com/isinicolle)</span>
 ------
 
